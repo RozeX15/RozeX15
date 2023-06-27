@@ -1,4 +1,4 @@
-![Web Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+https://pbs.twimg.com/profile_banners/1560989104653082625/1687884942/1080x360
 
 ### Hi there 👋, I am Nowroze Hassan
 #### Web Developer 
