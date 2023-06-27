@@ -1,8 +1,9 @@
-![Web Developer](https://pbs.twimg.com/profile_banners/1560989104653082625/1687884942/1500x500)
+![Web Developer & Digital Marketer](https://pbs.twimg.com/profile_banners/1560989104653082625/1687884942/1500x500)
 ### Hi there 👋, I'm Nowroze Hasan
-#### Web Developer
+##### Web Developer & Digital Marketer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+✅Love to code
+✅Like to share my knowledge
 
 Skills: Word press,HTML,JAVA
 
