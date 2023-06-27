@@ -1,6 +1,6 @@
 ![Web Developer & Digital Marketer](https://pbs.twimg.com/profile_banners/1560989104653082625/1687884942/1500x500)
 ### Hi there 👋, I'm Nowroze Hasan
-##### Web Developer & Digital Marketer
+#### Web Developer & Digital Marketer
 
 ✅Love to code
 ✅Like to share my knowledge
